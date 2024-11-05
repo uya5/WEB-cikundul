@@ -1,1 +1,6 @@
-Halaman depan
+@cikundul.txt
+
++ Home
++ Post
++ Blog
++ About
