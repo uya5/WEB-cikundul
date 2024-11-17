@@ -1,6 +1,5 @@
 @cikundul.txt
 
-+ Home
-+ Post
-+ Blog
-+ About
+ - aku suka anime
+ - aku suka meymei
+ - aku suka makan
